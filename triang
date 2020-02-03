@@ -1,13 +1,13 @@
+#include <stdio.h>
 
+int pascals(int n) {
 
+}
 
+int main() {
+  int rows;
+  scanf("%d", &rows);
+  
 
-
-
-
-
-
-
-
-
-
+  return 0;
+}
